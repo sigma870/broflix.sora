@@ -1,18 +1,18 @@
 {
-    "name": "BROFLIX",
+    "name": "cineby",
     "version": "1.0.0",
     "author": {
         "name": "me",
         "website": "https://google.com"
     },
     "iconURL": "https://github.com/sigma870/broflix.sora/blob/main/images.png",
-    "stream": "HLS",
+    "stream": "MP4",
     "language": "EN",
     "extractor": "normal",
     "module": [
         {
             "search": {
-                "url": "https://broflix.cc/search",
+                "url": "https://www.cineby.ru/search",
                 "parameter": "s",
                 "documentSelector": "div.similarimg",
                 "title": "a.c",
@@ -23,7 +23,7 @@
                 "href": "a"
             },
             "featured": {
-                "url": "https://broflix.cc/series",
+                "url": "https://www.cineby.ru/browse",
                 "documentSelector": "div.chart.bc1",
                 "title": "a.c",
                 "image": {
