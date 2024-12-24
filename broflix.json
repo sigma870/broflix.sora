@@ -5,7 +5,7 @@
         "name": "me",
         "website": "https://google.com"
     },
-    "iconURL": "https://github.com/sigma870/broflix.sora/blob/main/images.png",
+    "iconURL": "https://raw.githubusercontent.com/sigma870/broflix.sora/refs/heads/main/images.png",
     "stream": "MP4",
     "language": "EN",
     "extractor": "normal",
