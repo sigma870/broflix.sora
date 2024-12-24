@@ -5,8 +5,8 @@
         "name": "me",
         "website": "https://google.com"
     },
-    "iconURL": "https://animeheaven.me/ah_logo.png",
-    "stream": "MP4",
+    "iconURL": "https://github.com/sigma870/broflix.sora/blob/main/images.png",
+    "stream": "HLS",
     "language": "EN",
     "extractor": "normal",
     "module": [
